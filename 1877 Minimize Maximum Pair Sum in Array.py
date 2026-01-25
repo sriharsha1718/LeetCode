@@ -8,5 +8,4 @@ class Solution:
         return max_sum
         # Time Complexity: O(N Log N) because of sort() method
         # Space Complexity: O(N)
-
         # Python uses Timsort which uses extra memory proportional to N
